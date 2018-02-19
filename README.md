@@ -1,4 +1,4 @@
-# GNHA_dl_repo
+# GNHA_Deep_learning_talk
 
 The repository is created as a supplement for the Greater Nashville Healthcare Analytics Meetup talk on Feb'20th 2018.
 Titled "Deep Learning and other advanced methods in healthcare - non-imaging examples"
